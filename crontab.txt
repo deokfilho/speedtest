@@ -1,0 +1,2 @@
+* 9-21 * * * /bin/bash ~/Documents/Coding/speedtest/speedtest_script.sh
+0 0 * * * /bin/bash ~/Documents/Coding/speedtest/export_clean.sh
